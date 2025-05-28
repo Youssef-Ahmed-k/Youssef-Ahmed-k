@@ -174,12 +174,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefAhmedElMordy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAhmedElMordy&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Ahmed-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ahmed-k&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAhmedElMordy&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ahmed-k&theme=tokyonight" />
 </div>
 
 ---
@@ -195,7 +195,7 @@
 ## 🔥 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAhmedElMordy&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ahmed-k&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -203,7 +203,7 @@
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YoussefAhmedElMordy&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Ahmed-k&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
