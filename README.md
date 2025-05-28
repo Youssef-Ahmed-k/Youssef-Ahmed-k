@@ -184,10 +184,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Calendar
 
 <div align="center">
-  <img src="https://github.com/Youssef-Ahmed-k/Youssef-Ahmed-k/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/YoussefAhmedElMordy" alt="GitHub Contribution Chart" />
 </div>
 
 ---
