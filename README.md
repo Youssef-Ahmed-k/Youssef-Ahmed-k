@@ -63,7 +63,7 @@
 
 ### Cloud & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,heroku,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase" />
 </div>
 
 
