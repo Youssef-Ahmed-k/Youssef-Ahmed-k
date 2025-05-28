@@ -1,5 +1,5 @@
 # <div align="center">👋 Hi there, I'm Youssef Ahmed El Mordy</div>
-<div align="center">👋 Hi there, I'm Youssef Ahmed El Mordy</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Computer+Science+%26+AI+Student+%F0%9F%8E%93;Laravel+%7C+PHP+%7C+Python+%7C+APIs+%F0%9F%94%A5;Building+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Machine+Learning+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
