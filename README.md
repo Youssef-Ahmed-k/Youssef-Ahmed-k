@@ -1,58 +1,65 @@
 # <div align="center">👋 Hi there, I'm Youssef Ahmed El Mordy</div>
-
+<div align="center">👋 Hi there, I'm Youssef Ahmed El Mordy</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Computer+Science+%26+AI+Student+%F0%9F%8E%93;Laravel+%7C+PHP+%7C+Python+%7C+APIs+%F0%9F%94%A5;Building+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Machine+Learning+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Wizard"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Backend Developer"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Coding Animation"/>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+</div>
 
-## 🚀 About Me
 
+
+🚀 About Me
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=F75C7E&center=true&vCenter=true&width=900&lines=%F0%9F%8E%93+Computer+Science+%26+AI+Student+at+Helwan+University;%F0%9F%8E%AF+Backend+Developer+specializing+in+robust+systems;%F0%9F%94%A7+Expert+in+Laravel%2C+PHP%2C+Python+%26+REST+APIs;%F0%9F%A4%96+Passionate+about+AI+and+Machine+Learning;%F0%9F%9B%A1%EF%B8%8F+Love+solving+complex+technical+problems" alt="About Me" />
 </div>
 
----
-
-## 🎓 Education
-
+🎓 Education
 <div align="center">
-  
-**🏛️ Helwan University**  
-📚 **Bachelor's in Computer Science & Artificial Intelligence**  
-🗓️ **Current Student**
-
+🏛️ Helwan University
+📚 Bachelor's in Computer Science & Artificial Intelligence
+🗓️ Current Student
 </div>
 
----
-
-## 🛠️ Technical Skills
-
-### Backend Development
+🛠️ Technical Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,mysql,postgresql,mongodb,redis,docker,nginx,apache" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7da912.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" />
 </div>
-
-### Programming Languages
+Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,php,javascript,typescript,html,css,java" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7da912.gif" width="60" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,javascript,typescript,java" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
 </div>
-
-### Development Tools & IDEs
+Development Tools & IDEs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github,docker,linux,windows" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" />
+  <img src="https://skillicons.dev/icons?i=postman,linux,windows" />
 </div>
-
-### Cloud & DevOps
+Cloud & DevOps
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,firebase,heroku,vercel,netlify" />
 </div>
-
-### AI & Machine Learning
+AI & Machine Learning
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img width="50" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" alt="numpy"/>
@@ -60,13 +67,13 @@
   <img width="50" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas"/>
   <img width="50" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib"/>
 </div>
-
-### Databases & Storage
+Databases & Storage
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
 </div>
 
----
 
 ## 💼 Backend Development Expertise
 
