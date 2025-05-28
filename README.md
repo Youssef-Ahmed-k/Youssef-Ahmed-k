@@ -16,19 +16,19 @@
 
 
 
-🚀 About Me
+## 🚀 About Me
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=F75C7E&center=true&vCenter=true&width=900&lines=%F0%9F%8E%93+Computer+Science+%26+AI+Student+at+Helwan+University;%F0%9F%8E%AF+Backend+Developer+specializing+in+robust+systems;%F0%9F%94%A7+Expert+in+Laravel%2C+PHP%2C+Python+%26+REST+APIs;%F0%9F%A4%96+Passionate+about+AI+and+Machine+Learning;%F0%9F%9B%A1%EF%B8%8F+Love+solving+complex+technical+problems" alt="About Me" />
 </div>
 
-🎓 Education
+## 🎓 Education
 <div align="center">
 🏛️ Helwan University
 📚 Bachelor's in Computer Science & Artificial Intelligence
 🗓️ Current Student
 </div>
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
