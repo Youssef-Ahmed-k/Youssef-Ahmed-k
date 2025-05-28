@@ -187,7 +187,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/YoussefAhmedElMordy/YoussefAhmedElMordy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Youssef-Ahmed-k/Youssef-Ahmed-k/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -258,7 +258,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Youssefahmed8878@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ahmed-541471342)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01141197334)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefAhmedElMordy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Ahmed-k)
 
 </div>
 
